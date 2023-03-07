@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudioProjects/code-academy.net/MusicPlayer/app/src/main/res/drawable/ani_img_music.xml" value="0.1695" />
+        <entry key="..\:/AndroidStudioProjects/code-academy.net/MusicPlayer/app/src/main/res/drawable/anim_img_music.xml" value="0.1695" />
+        <entry key="..\:/AndroidStudioProjects/code-academy.net/MusicPlayer/app/src/main/res/drawable/shape_back_music.xml" value="0.1695" />
+        <entry key="..\:/AndroidStudioProjects/code-academy.net/MusicPlayer/app/src/main/res/drawable/shape_card_view.xml" value="0.1695" />
+        <entry key="..\:/AndroidStudioProjects/code-academy.net/MusicPlayer/app/src/main/res/drawable/shape_click.xml" value="0.144" />
+        <entry key="..\:/AndroidStudioProjects/code-academy.net/MusicPlayer/app/src/main/res/drawable/shape_list_view.xml" value="0.225" />
+        <entry key="..\:/AndroidStudioProjects/code-academy.net/MusicPlayer/app/src/main/res/drawable/shape_next_mucis.xml" value="0.1695" />
+        <entry key="..\:/AndroidStudioProjects/code-academy.net/MusicPlayer/app/src/main/res/layout/activity_main.xml" value="0.2640625" />
+        <entry key="..\:/AndroidStudioProjects/code-academy.net/MusicPlayer/app/src/main/res/layout/activity_splash.xml" value="0.278125" />
+        <entry key="..\:/AndroidStudioProjects/code-academy.net/MusicPlayer/app/src/main/res/layout/fragment_list_music.xml" value="0.2638888888888889" />
+        <entry key="..\:/AndroidStudioProjects/code-academy.net/MusicPlayer/app/src/main/res/layout/fragment_online.xml" value="0.278125" />
+        <entry key="..\:/AndroidStudioProjects/code-academy.net/MusicPlayer/app/src/main/res/layout/layout_rec_list_music.xml" value="0.5" />
+        <entry key="..\:/AndroidStudioProjects/code-academy.net/MusicPlayer/app/src/main/res/menu/menu_nav.xml" value="0.278125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
